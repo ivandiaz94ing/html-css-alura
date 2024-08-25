@@ -132,4 +132,12 @@ body{
     .presentation{
         flex-direction: column-reverse;
     }
+
+    .header{
+        padding: 10%;
+    }
+
+    .header__menu{
+        justify-content: center;
+    }
 }
