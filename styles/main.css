@@ -131,6 +131,11 @@ body{
 @media(max-width: 1200px){
     .presentation{
         flex-direction: column-reverse;
+        padding: 5%;
+    }
+
+    .presentation__content{
+        width: auto;
     }
 
     .header{
